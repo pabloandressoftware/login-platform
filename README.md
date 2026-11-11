@@ -3,7 +3,7 @@
 Proyecto de criptografía: gestión de usuarios y contraseñas de una plataforma, usando la API criptográfica de Java.
 
 ## Integrantes
-- pabloandressoftware
+- Pablo Guzman Alarcon
 - Stick Martinez
 
 ## Descripción
