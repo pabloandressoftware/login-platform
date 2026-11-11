@@ -1,6 +1,6 @@
 # Proyecto 6 – Login para una plataforma (Java + PBKDF2)
 
-**Integrantes:** pabloandressoftware, Stick Martinez
+**Integrantes:** Pablo Guzman Alarcon, Stick Martinez
 
 ## Cómo compilar y ejecutar
 ```bash
